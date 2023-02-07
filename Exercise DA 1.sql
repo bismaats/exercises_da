@@ -1,3 +1,9 @@
+/* Exercise 1
+Bisma Asa Tri Saputra
+Grup C
+Mentor Kak Azka
+*/
+
 /* 1. Urutan benua berdasarkan jumlah company terbanyak. 
 Benua mana yang memiliki unicorn paling banyak?*/
 SELECT
